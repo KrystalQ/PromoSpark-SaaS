@@ -1,2 +1,14 @@
-pc-admin/node_modules/
-pc-admin/dist/
+# 编译输出目录
+build/
+dist/
+out/
+
+# 依赖目录
+node_modules/
+vendor/
+
+# IDE 配置文件夹
+.idea/
+.vscode/
+*.swp
+
